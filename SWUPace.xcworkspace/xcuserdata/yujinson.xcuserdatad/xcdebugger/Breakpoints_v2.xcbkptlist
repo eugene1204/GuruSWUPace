@@ -16,8 +16,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "29"
             endingLineNumber = "29"
-            landmarkName = "updateUI()"
-            landmarkType = "7">
+            landmarkName = "DetailDanceViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -32,8 +32,116 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "30"
             endingLineNumber = "30"
-            landmarkName = "updateUI()"
+            landmarkName = "viewDidLoad()"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F1AB879-F55C-44B4-9DFE-CF372EB79E63"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SWUPace/DetailDanceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "DetailDanceViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5F1AB879-F55C-44B4-9DFE-CF372EB79E63 - 5fbf3f46598c83f1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SWUPace.DetailDanceViewController.danceNameLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "SWUPace"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yujinson/Desktop/SWUPace/SWUPace/DetailDanceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "5F1AB879-F55C-44B4-9DFE-CF372EB79E63 - 48ab135d20e93fe5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SWUPace.DetailDanceViewController.danceNameLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "SWUPace"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yujinson/Desktop/SWUPace/SWUPace/DetailDanceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "5F1AB879-F55C-44B4-9DFE-CF372EB79E63 - 1d09f5c52a6d3af6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SWUPace.DetailDanceViewController.danceNameLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "SWUPace"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yujinson/Desktop/SWUPace/SWUPace/DetailDanceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "5F1AB879-F55C-44B4-9DFE-CF372EB79E63 - 141ed4df2d0bdc5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SWUPace.DetailDanceViewController.danceNameLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SWUPace"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yujinson/Desktop/SWUPace/SWUPace/DetailDanceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "5F1AB879-F55C-44B4-9DFE-CF372EB79E63 - d8907f8aa928abf1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SWUPace.DetailDanceViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SWUPace.DetailDanceViewController"
+                  moduleName = "SWUPace"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yujinson/Desktop/SWUPace/SWUPace/DetailDanceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "5F1AB879-F55C-44B4-9DFE-CF372EB79E63 - 62ffa96ecbbfd0a1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SWUPace.DetailDanceViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SWUPace.DetailDanceViewController&gt;"
+                  moduleName = "SWUPace"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yujinson/Desktop/SWUPace/SWUPace/DetailDanceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "214">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
